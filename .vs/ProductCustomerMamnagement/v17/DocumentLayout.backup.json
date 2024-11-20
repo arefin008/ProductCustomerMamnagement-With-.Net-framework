@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\ProductCustomerMamnagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DAC944B-ECA7-4895-B38A-A96C6B894EA4}|ProductCustomerMamnagement\\ProductCustomerMamnagement.csproj|C:\\Users\\User\\source\\repos\\ProductCustomerMamnagement\\productcustomermamnagement\\views\\customer\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DAC944B-ECA7-4895-B38A-A96C6B894EA4}|ProductCustomerMamnagement\\ProductCustomerMamnagement.csproj|solutionrelative:productcustomermamnagement\\views\\customer\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DAC944B-ECA7-4895-B38A-A96C6B894EA4}|ProductCustomerMamnagement\\ProductCustomerMamnagement.csproj|c:\\users\\user\\source\\repos\\productcustomermamnagement\\productcustomermamnagement\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DAC944B-ECA7-4895-B38A-A96C6B894EA4}|ProductCustomerMamnagement\\ProductCustomerMamnagement.csproj|solutionrelative:productcustomermamnagement\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DAC944B-ECA7-4895-B38A-A96C6B894EA4}|ProductCustomerMamnagement\\ProductCustomerMamnagement.csproj|C:\\Users\\User\\source\\repos\\ProductCustomerMamnagement\\productcustomermamnagement\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DAC944B-ECA7-4895-B38A-A96C6B894EA4}|ProductCustomerMamnagement\\ProductCustomerMamnagement.csproj|solutionrelative:productcustomermamnagement\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DAC944B-ECA7-4895-B38A-A96C6B894EA4}|ProductCustomerMamnagement\\ProductCustomerMamnagement.csproj|C:\\Users\\User\\source\\repos\\ProductCustomerMamnagement\\productcustomermamnagement\\views\\customer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DAC944B-ECA7-4895-B38A-A96C6B894EA4}|ProductCustomerMamnagement\\ProductCustomerMamnagement.csproj|solutionrelative:productcustomermamnagement\\views\\customer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DAC944B-ECA7-4895-B38A-A96C6B894EA4}|ProductCustomerMamnagement\\ProductCustomerMamnagement.csproj|C:\\Users\\User\\source\\repos\\ProductCustomerMamnagement\\productcustomermamnagement\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DAC944B-ECA7-4895-B38A-A96C6B894EA4}|ProductCustomerMamnagement\\ProductCustomerMamnagement.csproj|solutionrelative:productcustomermamnagement\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DAC944B-ECA7-4895-B38A-A96C6B894EA4}|ProductCustomerMamnagement\\ProductCustomerMamnagement.csproj|C:\\Users\\User\\source\\repos\\ProductCustomerMamnagement\\productcustomermamnagement\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DAC944B-ECA7-4895-B38A-A96C6B894EA4}|ProductCustomerMamnagement\\ProductCustomerMamnagement.csproj|solutionrelative:productcustomermamnagement\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DAC944B-ECA7-4895-B38A-A96C6B894EA4}|ProductCustomerMamnagement\\ProductCustomerMamnagement.csproj|C:\\Users\\User\\source\\repos\\ProductCustomerMamnagement\\productcustomermamnagement\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DAC944B-ECA7-4895-B38A-A96C6B894EA4}|ProductCustomerMamnagement\\ProductCustomerMamnagement.csproj|solutionrelative:productcustomermamnagement\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DAC944B-ECA7-4895-B38A-A96C6B894EA4}|ProductCustomerMamnagement\\ProductCustomerMamnagement.csproj|C:\\Users\\User\\source\\repos\\ProductCustomerMamnagement\\productcustomermamnagement\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DAC944B-ECA7-4895-B38A-A96C6B894EA4}|ProductCustomerMamnagement\\ProductCustomerMamnagement.csproj|solutionrelative:productcustomermamnagement\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DAC944B-ECA7-4895-B38A-A96C6B894EA4}|ProductCustomerMamnagement\\ProductCustomerMamnagement.csproj|C:\\Users\\User\\source\\repos\\ProductCustomerMamnagement\\productcustomermamnagement\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DAC944B-ECA7-4895-B38A-A96C6B894EA4}|ProductCustomerMamnagement\\ProductCustomerMamnagement.csproj|solutionrelative:productcustomermamnagement\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DAC944B-ECA7-4895-B38A-A96C6B894EA4}|ProductCustomerMamnagement\\ProductCustomerMamnagement.csproj|C:\\Users\\User\\source\\repos\\ProductCustomerMamnagement\\productcustomermamnagement\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DAC944B-ECA7-4895-B38A-A96C6B894EA4}|ProductCustomerMamnagement\\ProductCustomerMamnagement.csproj|solutionrelative:productcustomermamnagement\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DAC944B-ECA7-4895-B38A-A96C6B894EA4}|ProductCustomerMamnagement\\ProductCustomerMamnagement.csproj|C:\\Users\\User\\source\\repos\\ProductCustomerMamnagement\\productcustomermamnagement\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DAC944B-ECA7-4895-B38A-A96C6B894EA4}|ProductCustomerMamnagement\\ProductCustomerMamnagement.csproj|solutionrelative:productcustomermamnagement\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DAC944B-ECA7-4895-B38A-A96C6B894EA4}|ProductCustomerMamnagement\\ProductCustomerMamnagement.csproj|C:\\Users\\User\\source\\repos\\ProductCustomerMamnagement\\productcustomermamnagement\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DAC944B-ECA7-4895-B38A-A96C6B894EA4}|ProductCustomerMamnagement\\ProductCustomerMamnagement.csproj|solutionrelative:productcustomermamnagement\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DAC944B-ECA7-4895-B38A-A96C6B894EA4}|ProductCustomerMamnagement\\ProductCustomerMamnagement.csproj|C:\\Users\\User\\source\\repos\\ProductCustomerMamnagement\\productcustomermamnagement\\ef\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DAC944B-ECA7-4895-B38A-A96C6B894EA4}|ProductCustomerMamnagement\\ProductCustomerMamnagement.csproj|solutionrelative:productcustomermamnagement\\ef\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DAC944B-ECA7-4895-B38A-A96C6B894EA4}|ProductCustomerMamnagement\\ProductCustomerMamnagement.csproj|C:\\Users\\User\\source\\repos\\ProductCustomerMamnagement\\productcustomermamnagement\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{6DAC944B-ECA7-4895-B38A-A96C6B894EA4}|ProductCustomerMamnagement\\ProductCustomerMamnagement.csproj|solutionrelative:productcustomermamnagement\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ProductCustomerMamnagement\\ProductCustomerMamnagement\\Views\\Customer\\Details.cshtml",
+              "RelativeDocumentMoniker": "ProductCustomerMamnagement\\Views\\Customer\\Details.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ProductCustomerMamnagement\\ProductCustomerMamnagement\\Views\\Customer\\Details.cshtml",
+              "RelativeToolTip": "ProductCustomerMamnagement\\Views\\Customer\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T20:05:31.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ProductCustomerMamnagement\\ProductCustomerMamnagement\\Views\\Customer\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProductCustomerMamnagement\\Views\\Customer\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ProductCustomerMamnagement\\ProductCustomerMamnagement\\Views\\Customer\\Create.cshtml",
+              "RelativeToolTip": "ProductCustomerMamnagement\\Views\\Customer\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T19:57:57.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ProductCustomerMamnagement\\ProductCustomerMamnagement\\DTOs\\CustomerDTO.cs",
+              "RelativeDocumentMoniker": "ProductCustomerMamnagement\\DTOs\\CustomerDTO.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ProductCustomerMamnagement\\ProductCustomerMamnagement\\DTOs\\CustomerDTO.cs",
+              "RelativeToolTip": "ProductCustomerMamnagement\\DTOs\\CustomerDTO.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T15:19:28.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ProductCustomerMamnagement\\ProductCustomerMamnagement\\Views\\Customer\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProductCustomerMamnagement\\Views\\Customer\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ProductCustomerMamnagement\\ProductCustomerMamnagement\\Views\\Customer\\Edit.cshtml",
+              "RelativeToolTip": "ProductCustomerMamnagement\\Views\\Customer\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T20:10:47.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ProductCustomerMamnagement\\ProductCustomerMamnagement\\Views\\Customer\\List.cshtml",
+              "RelativeDocumentMoniker": "ProductCustomerMamnagement\\Views\\Customer\\List.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ProductCustomerMamnagement\\ProductCustomerMamnagement\\Views\\Customer\\List.cshtml",
+              "RelativeToolTip": "ProductCustomerMamnagement\\Views\\Customer\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T19:49:25.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ProductCustomerMamnagement\\ProductCustomerMamnagement\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "ProductCustomerMamnagement\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ProductCustomerMamnagement\\ProductCustomerMamnagement\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "ProductCustomerMamnagement\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAADwv2AAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T19:39:21.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ProductCustomerMamnagement\\ProductCustomerMamnagement\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProductCustomerMamnagement\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ProductCustomerMamnagement\\ProductCustomerMamnagement\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "ProductCustomerMamnagement\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T15:45:48.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ProductCustomerMamnagement\\ProductCustomerMamnagement\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProductCustomerMamnagement\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ProductCustomerMamnagement\\ProductCustomerMamnagement\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "ProductCustomerMamnagement\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T17:27:46.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ProductCustomerMamnagement\\ProductCustomerMamnagement\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProductCustomerMamnagement\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ProductCustomerMamnagement\\ProductCustomerMamnagement\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "ProductCustomerMamnagement\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T17:41:03.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ProductCustomerMamnagement\\ProductCustomerMamnagement\\Views\\Customer\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProductCustomerMamnagement\\Views\\Customer\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ProductCustomerMamnagement\\ProductCustomerMamnagement\\Views\\Customer\\Delete.cshtml",
+              "RelativeToolTip": "ProductCustomerMamnagement\\Views\\Customer\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T20:14:50.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ProductCustomerMamnagement\\ProductCustomerMamnagement\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "ProductCustomerMamnagement\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ProductCustomerMamnagement\\ProductCustomerMamnagement\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "ProductCustomerMamnagement\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T16:57:43.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ProductCustomerMamnagement\\ProductCustomerMamnagement\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "ProductCustomerMamnagement\\DTOs\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ProductCustomerMamnagement\\ProductCustomerMamnagement\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "ProductCustomerMamnagement\\DTOs\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T15:18:23.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ProductCustomerMamnagement\\ProductCustomerMamnagement\\EF\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "ProductCustomerMamnagement\\EF\\Model1.Context.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ProductCustomerMamnagement\\ProductCustomerMamnagement\\EF\\Model1.Context.cs",
+              "RelativeToolTip": "ProductCustomerMamnagement\\EF\\Model1.Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T15:22:19.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ProductCustomerMamnagement\\ProductCustomerMamnagement\\EF\\Model1.edmx",
+              "RelativeDocumentMoniker": "ProductCustomerMamnagement\\EF\\Model1.edmx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ProductCustomerMamnagement\\ProductCustomerMamnagement\\EF\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "ProductCustomerMamnagement\\EF\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-15T15:16:56.13Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

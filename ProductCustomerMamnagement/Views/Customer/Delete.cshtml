@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+<h1>Are you sure to delete?</h1>
+<h3>@Model.FirstName</h3>
+<h3>@Model.LastName</h3>
+<form method="post">
+    <input type="hidden" name="CustomerId" value="@Model.CustomerId" />
+    <input type="submit" value="Yes" name="dcsn" class="btn btn-danger" />
+    <input type="submit" value="No" name="dcsn" class="btn btn-warning" />
+</form>
+
